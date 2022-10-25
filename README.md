@@ -17,7 +17,7 @@ To predict things have been never so easy. I used to wonder how Insurance amount
 
 ![](https://github.com/csoren66/Medical-Cost-Prediction/blob/main/sampleImages/AgevsCharges.png)
 
-![](https://github.com/csoren66/Medical-Cost-Prediction/blob/main/sampleImages/sampleImages/deployments.png)
+![](https://github.com/csoren66/Medical-Cost-Prediction/blob/main/sampleImages/deployments.png)
 
 ## :star: Features
 <ol>
