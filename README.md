@@ -45,8 +45,8 @@ To predict things have been never so easy. I used to wonder how Insurance amount
 ## :file_folder: Dataset
 The dataset used can be downloaded here (Kaggle) - [Click to Download](https://www.kaggle.com/mirichoi0218/insurance)
 
-## :heart: Owner
+## :heart: Credits
 Made with :heart:&nbsp;  by [Sahil Chachra](https://github.com/SahilChachra)
 
 ## :eyes: License
-MIT © [Sahil Chachra](https://github.com/SahilChachra/Medical-Cost-Prediction/blob/master/LICENSE)
+MIT © [Chandan Soren](https://github.com/csoren66/Medical-Cost-Prediction/blob/master/LICENSE)
